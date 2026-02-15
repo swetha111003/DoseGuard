@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Latha",
+    "age": 30,
+    "phone": "9078563412",
+    "medicines": [
+      {
+        "name": "Vitamin",
+        "periods": [
+          "Morning",
+          "Afternoon",
+          "Night"
+        ],
+        "food": "After Food"
+      }
+    ],
+    "streak": 0,
+    "health": 100,
+    "id": "965d7409-6269-456f-8a17-a639eb09e45d"
+  },
+  {
+    "name": "Suganya",
+    "age": 25,
+    "phone": "7989675434",
+    "medicines": [
+      {
+        "name": "Cetrizine",
+        "periods": [
+          "Night"
+        ],
+        "food": "After Food"
+      },
+      {
+        "name": "Paracetamol",
+        "periods": [
+          "Morning",
+          "Night"
+        ],
+        "food": "After Food"
+      }
+    ],
+    "streak": 0,
+    "health": 100,
+    "id": "a88c2f13-7e6b-40c4-988c-3c13adbd3ac8"
+  }
+]

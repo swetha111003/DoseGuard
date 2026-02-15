@@ -1,0 +1,6 @@
+streamlit
+apscheduler
+gtts
+scikit-learn
+pandas
+numpy

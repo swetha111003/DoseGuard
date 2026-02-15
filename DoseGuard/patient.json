@@ -1,0 +1,1 @@
+{"name": "Paaru", "age": 1, "phone": "6380142030", "caregiver": "6380142030", "medicines": [{"name": "Glimestar", "periods": ["Morning", "Night"], "food": "Before Food"}, {"name": "Atorlanz", "periods": ["Night"], "food": "After Food"}], "streak": 0, "health": 100}

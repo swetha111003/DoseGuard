@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Charu",
+    "age": 50,
+    "phone": "9023156702",
+    "medicines": [
+      {
+        "name": "Paracetamol",
+        "periods": [
+          "Night"
+        ],
+        "food": "Before Food"
+      }
+    ],
+    "streak": 0,
+    "health": 100,
+    "id": "9bfc56a0-361a-41af-8165-cea8b6fda56e"
+  },
+  {
+    "name": "Paaru",
+    "age": 50,
+    "phone": "7234569710",
+    "medicines": [
+      {
+        "name": "Atorlanz",
+        "periods": [
+          "Night"
+        ],
+        "food": "After Food"
+      }
+    ],
+    "streak": 0,
+    "health": 100,
+    "id": "cdec55e4-0cee-49fd-ac48-637c18a9ab33"
+  },
+  {
+    "name": "Latha",
+    "age": 20,
+    "phone": "7657431233",
+    "medicines": [
+      {
+        "name": "Vitamin",
+        "periods": [
+          "Morning",
+          "Night"
+        ],
+        "food": "After Food"
+      }
+    ],
+    "streak": 0,
+    "health": 100,
+    "id": "0beb5366-0063-4863-acc5-635de3948230"
+  }
+]
